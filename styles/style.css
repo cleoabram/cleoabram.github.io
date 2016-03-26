@@ -1,0 +1,48 @@
+h1 {
+	color: rgb(80, 80, 80);
+}
+
+h1:after
+{
+    content:' ';
+    display:block;
+    border:1px solid black;
+}
+
+.upper {
+	text-transform: uppercase;
+}
+
+body {
+	text-align: center;
+	background-color: rgb(199, 199, 199);
+	border-top: 30px solid black;
+	border-bottom: 30px solid black;
+}
+
+body {    
+	font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+ }
+
+body:after
+{
+    content:' ';
+    display:block;
+    border:1px solid black;
+}
+
+img {
+	border: 1px solid black;
+	float: right;
+    width: 23%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    text-align: center;
+}
