@@ -2,6 +2,14 @@ h1 {
 	color: rgb(80, 80, 80);
 }
 
+h3 {
+	color: rgb(80, 80, 80);
+}
+
+p {
+	color: rgb(80, 80, 80)
+}
+
 h1:after
 {
     content:' ';
