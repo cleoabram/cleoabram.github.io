@@ -11,21 +11,12 @@ h1:after
 
 body {
 	text-align: center;
-	background-color: rgb(199, 199, 199);
-	border-top: 30px solid black;
-	border-bottom: 30px solid black;
+    background-image: url("https://scontent-lga3-1.xx.fbcdn.net/hphotos-xtf1/t31.0-8/11896544_10153781692582573_4805901210098942744_o.jpg");
 }
 
 body {    
 	font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
  }
-
-body:after
-{
-    content:' ';
-    display:block;
-    border:1px solid black;
-}
 
 img {
 	border: 1px solid black;
